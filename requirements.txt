@@ -1,0 +1,3 @@
+pip install nodejs
+pip install --upgrade jupyterlab
+pip install ipympl
